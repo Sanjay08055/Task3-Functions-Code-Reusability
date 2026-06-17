@@ -13,6 +13,7 @@ def calculate_bmi(weight, height):
     return bmi, category
 
 
+
 weight = float(input("Enter weight (kg): "))
 height = float(input("Enter height (m): "))
 
