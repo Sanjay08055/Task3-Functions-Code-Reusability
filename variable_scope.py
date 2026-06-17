@@ -15,5 +15,4 @@ def outer():
 
     inner()
 
-
 outer()
