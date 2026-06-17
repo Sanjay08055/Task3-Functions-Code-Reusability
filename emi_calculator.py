@@ -11,7 +11,6 @@ def calculate_emi(principal, annual_rate, tenure_months):
 
     return emi
 
-
 p = float(input("Enter Loan Amount: "))
 r = float(input("Enter Annual Interest Rate (%): "))
 t = int(input("Enter Tenure (months): "))
