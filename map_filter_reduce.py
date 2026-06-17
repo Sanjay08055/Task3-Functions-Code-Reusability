@@ -12,3 +12,4 @@ print("Original:", numbers)
 print("Squares:", squares)
 print("Even Numbers:", evens)
 print("Sum:", total)
+
