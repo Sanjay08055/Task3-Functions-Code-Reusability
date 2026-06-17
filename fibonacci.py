@@ -6,6 +6,5 @@ def fibonacci(n):
         print(a, end=" ")
         a, b = b, a + b
 
-
 num = int(input("Enter number of terms: "))
 fibonacci(num)
